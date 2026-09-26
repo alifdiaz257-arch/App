@@ -1,0 +1,9 @@
+{
+  "appId": "com.test.apk",
+  "appName": "Test",
+  "webDir": "www",
+  "server": {
+    "url": "https://www.qrstudio.web.id/",
+    "cleartext": true
+  }
+}
